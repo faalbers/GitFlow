@@ -1,4 +1,10 @@
 How to greate a git project flow:
+https://youtu.be/rX80eKPdA28
+
+for all commands:
+git flow
+
+examples:
 git flow init
 git branch
 git flow feature start frank
