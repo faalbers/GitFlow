@@ -11,7 +11,7 @@ git flow feature start frank
 
 // to publish and make a pull request on github publish to GitHub
 
-git flow feature finish frank
+git flow feature finish frank // this will ALSO remove the branch on Github if you changed it
 git flow release start 0.1.0
 git flow release finish 0.1.0
 git flow bugfix start bad
