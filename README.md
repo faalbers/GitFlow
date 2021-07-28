@@ -9,7 +9,7 @@ git flow init
 git branch
 git flow feature start frank
 
-// to publish and make a pull request on github publish to github
+// to publish and make a pull request on github publish to GitHub
 
 git flow feature finish frank
 git flow release start 0.1.0
