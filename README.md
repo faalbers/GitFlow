@@ -8,6 +8,10 @@ examples:
 git flow init
 git branch
 git flow feature start frank
+
+// to publish and make a pull request on github
+git flow publish feature/frank
+
 git flow feature finish frank
 git flow release start 0.1.0
 git flow release finish 0.1.0
